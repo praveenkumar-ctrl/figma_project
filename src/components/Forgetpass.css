@@ -1,0 +1,103 @@
+.button{
+    border-radius: 10px;
+	border-color: #FFFFFF;
+	background-color: #194BFB;;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: 900;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+    margin-right: 15px;
+	transition: transform 80ms ;
+    }
+.button-sign{
+    border-radius: 10px;
+	border-color: #FFFFFF;
+	background-color: #194BFB;;
+	color: #FFFFFF;
+	font-size: 15px;
+    width: 400px;
+	font-weight: 900;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+    margin-bottom: 5px;
+	transition: transform 80ms ;
+}
+.button:hover{
+    background-color: #194BFB;
+    color:#FFFFFF;
+    transform: scale(0.95);
+}
+.card {
+    width: 450px;
+    padding: 10px;
+    border-radius: 20px;
+    background: #fff;
+    border: none;
+    height: 450px;
+    position: relative;
+    top:65%;
+    left: 30%;
+    margin-top: 50px;
+    
+  }
+  
+ 
+  
+  body {
+    background: #eee;
+  }
+  
+
+  
+  .form-control {
+   
+    margin-left: 5px;
+    margin-top:0px ;
+    width: 400px;
+    height: 50px;
+  }
+  
+  .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ff8880;
+    outline: 0;
+    box-shadow: none;
+  }
+  
+  .cursor {
+    cursor: pointer;
+  }
+  .text1{
+   
+      font-size: 20px;
+  }
+  .text2{
+      font-size: 15px;
+      font-weight: bold;
+      margin: 5px;
+  }
+  .verify{
+      margin-top: 0px;
+  }
+ /* .button-sign{
+    border-radius: 10px;
+	border-color: #FFFFFF;
+	background-color: #194BFB;;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: 900;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+    margin-top: 0px;  
+	transition: transform 80ms ;
+    }*/
+    .btn:hover{
+    background-color: #194BFB;
+    color:#FFFFFF;
+    transform: scale(0.95);
+}
+.text3{
+  font-size: 15px;
+}
